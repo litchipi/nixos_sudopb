@@ -1,6 +1,6 @@
 # NixOS sudo problem minimal example
 
-To run with nix 2.4:
+To run with nix 2.4 (tested on Ubuntu 21.10):
 ```
 nix build .#vm
 cd result
